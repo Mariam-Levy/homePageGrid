@@ -6,7 +6,7 @@ Practicando Grid layout y CSS, asi como tambien Responsive Design
 * CSS - Grid layout
 
 ## Previsualización
-mariam-levy.github.io/homepagegrid/
+https://mariam-levy.github.io/homePageGrid/
 
 ## Creditos ✒️
 Diseño realizado por [AlexCG Design](https://alexcgdesign.com/blog/crea-una-pagina-web-desde-cero/)
